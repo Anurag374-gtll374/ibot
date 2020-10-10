@@ -1,13 +1,13 @@
 {
 	"discord": {
-		"prefix": "",
-		"token": "",
-		"ownerID": "",
+		"prefix": "b.",
+		"token": "NjY3MTIxMTgyMTYzNTk5Mzgy.Xh-HBA.vTSt3fM9dPHZmpBHfWrxGzmlM3Q",
+		"ownerID": "522728463413542925",
 		"commandCategories": []
 	},
 	"api": {
 		"google": "",
-		"youtube": "",
+		"youtube": "AIzaSyAGmQexQmo2pyh7HIPC0kL-DFODmUkvM5I",
 		"weather": "",
 		"cleverbot": "",
 		"discord_bans": "",
